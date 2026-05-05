@@ -1,8 +1,8 @@
-# 💫 About Me:
-🚀 Full-Stack Developer specializing in MERN Stack & Laravel<br><br>💻 Building production-ready web applications, AI chatbots, and management systems<br><br>🌱 Currently learning TypeScript, Advanced Laravel, and AI/ML Integration<br><br>👨‍💻 25+ projects built including e-commerce platforms, inventory systems, and AI assistants<br><br>🏢 Backend Developer at Sky Waves software house (Laravel & MySQL)<br><br>🎓 Final year BS Information Technology student at University of the Punjab<br><br>⚡ Fun fact: I'm building my own JARVIS-like AI assistant to control my laptop<br><br>🌐 Portfolio: wigitify.com | Reedstreams.live<br><br>📫 Reach me at: dawood.bhatti8812@gmail.com
+# About Me:
+ Full-Stack Developer specializing in MERN Stack & Laravel<br><br> Building production-ready web applications, AI chatbots, and management systems<br><br> Currently learning TypeScript, Advanced Laravel, and AI/ML Integration<br><br> 25+ projects built including e-commerce platforms, inventory systems, and AI assistants<br><br> Backend Developer at Sky Waves software house (Laravel & MySQL)<br><br>🎓 Final year BS Information Technology student at University of the Punjab<br><br> Fun fact: I'm building my own JARVIS-like AI assistant to control my laptop<br><br> Portfolio: wigitify.com | Reedstreams.live<br><br> Reach me at: dawood.bhatti8812@gmail.com
 
 
-## 🌐 Socials:
+## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dawood.dawoodahmed.140) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dawood-ahmed-8953b63a2)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dawood.bhatti8812@gmail.com) 
 
 # 💻 Tech Stack:
