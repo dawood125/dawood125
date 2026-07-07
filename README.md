@@ -1,5 +1,5 @@
 # About Me:
- Full-Stack Developer specializing in MERN Stack & Laravel<br><br> Building production-ready web applications, AI chatbots, and management systems<br><br> Currently learning TypeScript, Advanced Laravel, and AI/ML Integration<br><br> 25+ projects built including e-commerce platforms, inventory systems, and AI assistants<br><br> Backend Developer at Sky Waves software house (Laravel & MySQL)<br><br>🎓 Final year BS Information Technology student at University of the Punjab<br><br> Fun fact: I'm building my own JARVIS-like AI assistant to control my laptop<br><br> Portfolio: wigitify.com | Reedstreams.live<br><br> Reach me at: dawood.bhatti8812@gmail.com
+ Full-Stack Developer specializing in MERN Stack & Laravel<br><br> Building production-ready web applications, AI chatbots, and management systems<br><br> Currently learning TypeScript, Advanced Laravel, and AI/ML Integration<br><br> 25+ projects built including e-commerce platforms, inventory systems, and AI assistants<br><br> Full Stack Developer at TECHLING software house<br><br>🎓 Final year BS Information Technology student at University of the Punjab<br><br> Fun fact: I'm building my own JARVIS-like AI assistant to control my laptop<br><br> Portfolio: wigitify.com | Reedstreams.live<br><br> Reach me at: dawood.bhatti8812@gmail.com
 
 
 ## Socials:
